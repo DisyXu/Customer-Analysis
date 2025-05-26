@@ -48,7 +48,9 @@ This project performs customer segmentation using RFM (Recency, Frequency, Monet
 - Python (Pandas, Seaborn, Matplotlib, scikit-learn)
 - Jupyter Notebook
 
-## 📌 Author
+## 📚 Data Source (APA Citation)
 
-Yuchen Xu – UBC Economics & Statistics Major  
-GitHub: [your GitHub link here]  
+Khanh Lai. (2023). *Mini Project - Data Analytics with SQL and Python* [Dataset]. Kaggle. https://www.kaggle.com/code/khanhlai03/mini-project-data-analytics-with-sql-and-python
+
+Note: This dataset is intended for educational and analytical purposes.
+
